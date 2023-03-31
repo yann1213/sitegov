@@ -1,0 +1,219 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    display: inline-flex;
+    margin: 0%;
+    padding: 0%;
+}
+.almoirie{
+    margin-left: 65px;
+    margin-top: 20px;
+}
+.SP{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.Spab{
+    position: relative;
+    left: -200px;
+    top: 60px;
+}
+.upj{
+    position: relative;
+    top: 50px;
+    font-size: 18px;
+    margin-left: 100px;
+}
+.drapeau{
+    margin-left: 200px;
+}
+.navig{
+    position: relative;
+    top: 2px;
+    right: 8px;
+    list-style: none;
+    width: 1357px;
+    margin: 0px;
+    background-color:#002a40; 
+    margin: 0%; 
+    padding: 0%;   
+}
+.navig li{
+    display: inline-block;
+}
+.navig li a{
+    display: block;
+    padding: 30px;
+    text-decoration: none;
+    color: rgb(104, 107, 110);
+    height: 9px;
+};
+.navig li a:hover{
+    color: blueviolet;
+}
+.nav ul li a:hover{
+    color: rgb(250, 252, 253);
+}
+.milieu{
+    text-align: center;
+    margin-top: 15px;
+    position: relative;
+    top: 15px;
+}
+.rell{
+    height: 43px;
+    width: 450px;
+}
+.button{
+    height: 43px;
+    background-color: rgb(84, 84, 187);
+    width: 140px;
+}
+.derive{
+    background-color: #dddcdc;
+    height: 70px;
+    margin: 0px;
+    position: relative;
+    top: -13px;
+    bottom: 15px;
+    padding: 0%;
+}
+.moi{
+    text-align: center;
+}
+.moi1{
+    font-size: 40px;
+
+}
+.moi2{
+    font-family: sans-serif;
+    
+}
+.align{
+    display: flex;
+    gap: 40px;
+    position: relative;
+    top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+}
+.une{
+    width: 450px;
+    height: 200px;
+    box-shadow: 0px 2px 2px 2px rgb(182, 176, 176);
+    border-radius: 1px;
+}
+.deux{
+    width: 450px;
+    height: 200px;
+    box-shadow: 0px 2px 2px 2px rgb(182, 176, 176);
+    border-radius: 1px;
+}
+.trois{
+    width: 450px;
+    box-shadow: 0px 2px 2px 2px rgb(182, 176, 176);
+    border-radius: 1px;
+}
+.quatre{
+    width: 450px;
+    box-shadow: 0px 2px 2px 2px rgb(182, 176, 176);
+    border-radius: 1px;
+    
+}
+section .align div:hover{
+    background-color: rgb(63, 112, 248);
+    color: #dddcdc;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 0px 4px 4px 4px rgb(149, 146, 153);
+}
+.button2{
+    position: relative;
+    top: 80px;
+    margin-left: 580px;
+    width: 200px;
+    height: 40px;
+    background-color: #002a40;
+    border-radius: 5px;
+    color: #dddcdc;
+}
+.center{
+    text-align: center;
+    font-size: 20px;
+}
+.center1{
+    font-size: 45px;
+}
+.Rectangle6{
+    background-color: #cbcccc;
+    height: 880px;
+}
+.pourquoi{
+    display: flex;
+    gap: 80px;
+    position: relative;
+    top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+}
+.pour{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour1{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour2{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour3{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pourquoi2{
+    display: flex;
+    gap: 80px;
+    position: relative;
+    top: 50px;
+    margin-left: 90px;
+    margin-right: 90px;
+    text-align: center;
+}
+.pour4{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour5{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour6{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
+.pour7{
+    background-color: white;
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+}
